@@ -1,12 +1,12 @@
 # Task-Management-Application
 The Task Management App is a web-based application developed using HTML, CSS, and JavaScript. It provides users with the ability to add, edit, and delete tasks, as well as search for tasks based on various criteria. The tasks are categorized by priority and completion status, offering a comprehensive dashboard for efficient task management.
 
-Setup Instructions:
+Setup & Instructions:
 1) Clone the Repository:
   -Clone the repository to your local machine using the following command:
   git clone https://github.com/chetandeshpande1/Task-Management-Application
 
-2)Open the HTML File:
+2) Open the HTML File:
   -Navigate to the project directory and open the index.html file in your preferred web browser.
 
 3) Explore the Task Management App:
@@ -14,12 +14,12 @@ Setup Instructions:
   -The task dashboard displays tasks categorized by priority and completion status.
   -Utilize the search bar to quickly find specific tasks.
 
-Additional Information:
+4) Additional Information:
   Technologies Used:
 -HTML, CSS, Vanilla JavaScript
 -Bootstrap for styling
 
-Features:
+5) Features:
   -Add, edit, and delete tasks
   -Categorized task dashboard
   -Search functionality
