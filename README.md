@@ -24,3 +24,7 @@ Setup & Instructions:
   -Categorized task dashboard
   -Search functionality
   -Responsive design for various screen sizes
+
+
+Demo:
+https://chetandeshpande1.github.io/Task-Management-Application/
